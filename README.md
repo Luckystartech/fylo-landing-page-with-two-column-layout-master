@@ -47,3 +47,4 @@ Users should be able to:
 I appreciate the effort and dedication that the FrontendMentors team has put into creating these challenges and providing a platform for continuous learning and growth within the coding community. Your commitment to fostering a collaborative and supportive environment is commendable.
 
 I look forward to taking on more challenges and learning opportunities on FrontendMentors in the future. Thank you for your dedication to the developer community and for being an essential part of my coding journey.
+# fylo-landing-page-with-two-column-layout-master
